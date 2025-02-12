@@ -9,6 +9,7 @@
 
 ## 📚 Проекты
 Собственные наработки/переработки предоставлены ниже:
+- sqlxcheckers: https://github.com/kreedzru/sqlxcheckers/releases
 
 ## 📬 Контакты
 - Telegram: @kreedzru666
